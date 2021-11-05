@@ -13,4 +13,4 @@
 #### El unico objetivo del juego es completar la historia.
 
 ## Controles 
-#### El control del juego es touchscreen. En el juego 
+#### El control del juego es touchscreen. En el juego  
