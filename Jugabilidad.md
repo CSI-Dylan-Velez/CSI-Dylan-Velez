@@ -1,3 +1,8 @@
+   src="https://www.google.com/search?q=7+deadly+sins+grand+cross&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjch7L2q4z0AhXjRDABHU_9DVIQ_AUoAXoECAEQAw&biw=1366&bih=617&dpr=1#imgrc=fyMDRGKvk2iMoM"
+       title="The Seven Deadly Sins: Grand Cross[Nanatsu no Taizai Wiki] Fandom
+       width="50%"
+       height="50%"  
+
 # Elementos de la Jugabilidad: 7DS (7 Deadly Sins)
 
 ## Personajes
@@ -30,6 +35,3 @@
 
 ### Graficos
 #### Los graficos ayudan a crear un ambiente mas realista. La personas se dejan llevar mucho por como los grafico son. El juego tiene graficos bien altos. Es muy visible y colorido no hay zonas que no se vea lo que es.
-
-
-
