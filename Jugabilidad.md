@@ -1,7 +1,7 @@
-   src="https://www.google.com/search?q=7+deadly+sins+grand+cross&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjch7L2q4z0AhXjRDABHU_9DVIQ_AUoAXoECAEQAw&biw=1366&bih=617&dpr=1#imgrc=fyMDRGKvk2iMoM"
-       title="The Seven Deadly Sins: Grand Cross[Nanatsu no Taizai Wiki] Fandom
+<img   src="https://static.wikia.nocookie.net/nanatsu-no-taizai/images/2/25/Grand_Cross_of_light_and_darkness.png/revision/latest?cb=20190512165116"
+       title="The Seven Deadly Sins: Grand Cross[Nanatsu no Taizai Wiki] Fandom"
        width="50%"
-       height="50%"  
+       height="50%"  />
 
 # Elementos de la Jugabilidad: 7DS (7 Deadly Sins)
 
