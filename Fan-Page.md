@@ -8,7 +8,7 @@
             />
 </div>
 
-<h2 align="center" >singer-songwriter </h2>
+<h2 align="center" >Singer-songwriter </h2>
 
 </p>
 
@@ -45,14 +45,6 @@
 </div>
 
 <div align="center">
-<img    src="https://www.biography.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_700/MTQ3OTY3MzE4NDczODQ0MTkx/beyonce_jay_z_2016_grammy_awards_photo_lester_cohen_getty_images_resized_635003128.webp"
-            title=""
-            width="50%"
-            height="50%" 
-            />
- <p style = "text-indent: 2cm; font-family: Comic Sans MS; font-size:110%"> 
-   
-</div>
 
 <br>
 
