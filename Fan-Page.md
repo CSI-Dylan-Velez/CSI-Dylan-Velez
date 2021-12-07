@@ -60,35 +60,42 @@
 <table>
     <tr>
         <th>Name</th>
-        <td></td>
+        <td>Beyoncé Knowles</td>
     </tr>
     <tr>
         <th>Age</th>
-        <td></td>
+        <td>40</td>
     </tr>
     <tr>
         <th>Birthday</th>
-        <td></td>
+        <td>September 4, 1981</td>
     </tr>
         <tr>
         <th>Nationality</th>
-        <td></td>
+        <td>American</td>
+    </tr>
+    <tr>
+        <th>Husband</th>
+        <td>Jay-Z</td>
+    </tr>
+    <tr>
+        <th>Son</th>
+        <td>Blue Ivy Carter</td>
+    </tr>
+    <tr>
+        <th>Son</th>
+        <td>Rumi Carter</td>
+    </tr>
+    <tr>
+        <th>Son</th>
+        <td>Sir Carter</td>
     </tr>
     <tr>
         <th>Instagram</th>
-        <td></td>
+        <td><a href="https://www.instagram.com/beyonce/?hl=en"> @Beyoncé </a></td>
     </tr>
-    <tr>
-        <th>Twitter</th>
-        <td></td>
-    </tr>
-    <tr>
-        <th>Youtube</th>
-        <td></td>
-    </tr>
-    <tr>
-        <th>Twitch</th>
-        <td><a href="">  </a></td>
+    <th>Youtube</th>
+        <td><a href="https://www.youtube.com/channel/UCuHzBCaKmtaLcRAOoazhCPA"> Beyoncé </a></td>
     </tr>
 </table>
 
